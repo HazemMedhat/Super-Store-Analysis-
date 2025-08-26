@@ -77,10 +77,10 @@ The analysis covers:
 ## Dashboard
 The interactive dashboard provides a comprehensive view of the analysis:
 
-![Overview Dashboard](attachment://dashboard_image.jpg)
-![Customer Dashboard](attachment://dashboard_image.jpg)
-![Product Dashboard](attachment://dashboard_image.jpg)
-![other Dashboard](attachment://dashboard_image.jpg)
+![Overview Dashboard](https://github.com/HazemMedhat/Super-Store-Analysis-/blob/47b9ce2d493f9876d92371504a83b9d5fcce904c/Overview%20Report.png)
+![Customer Dashboard](https://github.com/HazemMedhat/Super-Store-Analysis-/blob/47b9ce2d493f9876d92371504a83b9d5fcce904c/Customer%20Report%20.png)
+![Product Dashboard](https://github.com/HazemMedhat/Super-Store-Analysis-/blob/47b9ce2d493f9876d92371504a83b9d5fcce904c/Product%20Report.png)
+![other Dashboard](https://github.com/HazemMedhat/Super-Store-Analysis-/blob/47b9ce2d493f9876d92371504a83b9d5fcce904c/Orders%20%26%20Geo%20Rep.png)
 
 - **Overview Report**: Highlights total sales ($2,297,201), discounts ($322,582), profit margin (-24%), return rate (5.91%), and trends over time.
 - **Customer Report**: Shows 793 customers, ARPU ($2,490), top 5 customers by revenue and frequency, segment distribution, and ship mode preferences.
