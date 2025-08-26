@@ -12,7 +12,7 @@ The dataset consists of the following sheets:
 ## Data Model
 A star schema was implemented in Excel (using Power Pivot). The data model structure is as follows:
 
-![Data Model](attachment://data_model_image.jpg)
+![Data Model](https://github.com/HazemMedhat/Super-Store-Analysis-/blob/60fe5317d0a3af275a66b4c057db0c392dae7de6/New%20Data%20Model.png)
 
 - **Fact Table: Orders** (enhanced with calculated columns for Revenue and Ship Duration).
 - **Dimension Tables**: Customers (derived or inferred from Orders), Products (from Orders), Returns, and People.
@@ -77,7 +77,10 @@ The analysis covers:
 ## Dashboard
 The interactive dashboard provides a comprehensive view of the analysis:
 
-![Dashboard](attachment://dashboard_image.jpg)
+![Overview Dashboard](attachment://dashboard_image.jpg)
+![Customer Dashboard](attachment://dashboard_image.jpg)
+![Product Dashboard](attachment://dashboard_image.jpg)
+![other Dashboard](attachment://dashboard_image.jpg)
 
 - **Overview Report**: Highlights total sales ($2,297,201), discounts ($322,582), profit margin (-24%), return rate (5.91%), and trends over time.
 - **Customer Report**: Shows 793 customers, ARPU ($2,490), top 5 customers by revenue and frequency, segment distribution, and ship mode preferences.
@@ -86,20 +89,4 @@ The interactive dashboard provides a comprehensive view of the analysis:
 
 ## Files Included
 - `Sample - standard data.xls`: Raw dataset.
-- `SuperStore_Analysis.xlsx`: Excel file with data model, transformations, DAX measures, and interactive dashboard. (Assuming this is the output file; rename as needed.)
-
-## Usage
-1. Open `SuperStore_Analysis.xlsx` in Excel (with Power Pivot enabled).
-2. Explore the data model in Power Pivot.
-3. Interact with the dashboard using slicers to filter and visualize data across reports.
-4. Refresh data if updating the source.
-
-## Contributors
-- [Your Name/Username]
-
-## License
-MIT License (or specify as needed).
-
-## Acknowledgments
-- Dataset based on standard SuperStore sample data.
-- Thanks to xAI's Grok for assistance in project structuring.
+- `Project.xlsx`: Excel file with data model, transformations, DAX measures, and interactive dashboard. (Assuming this is the output file; rename as needed.)
